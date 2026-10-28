@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-PatchMon is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://patchmon.net/
+PatchMon provides a patch management platform for Linux, FreeBSD, and Windows servers. It offers a web dashboard, REST API, and integrations to automate update deployment, compliance reporting, and audit trails. Available as a cloud service or self‑hosted open‑source edition under AGPL‑v3.
+
+**Areas:** Company · Patch Management · Linux · FreeBSD · Windows · Open Source
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://patchmon.net/)
+- [Documentation](https://patchmon.net/docs)
+- [Getting started](https://patchmon.net/docs/patchmon-operator-guide/first-time-admin-setup)
+- [API reference](https://patchmon.net/docs/api-reference)
+- [Pricing](https://patchmon.net/pricing)
+- [Blog](https://patchmon.net/blog)
+- [Security](https://patchmon.net/security)
+- [Compliance](https://trust.patchmon.net/)
+- [Terms of service](https://patchmon.net/legal/terms-of-service)
+- [Privacy policy](https://patchmon.net/legal/privacy-policy)
+- [GitHub](https://github.com/patchmon)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/patchmon/](https://apis.io/providers/patchmon/).
